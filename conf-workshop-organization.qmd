@@ -1,0 +1,26 @@
+---
+title: "conf workshop organization"
+format: confluence-html
+editor: visual
+---
+
+# Pre-planning
+
+-   Find out the number of rooms available and room sizes
+
+-   Set a target revenue for workshops
+
+# Post-announcement
+
+-   Get registration codes for instructors
+
+-   TAs:
+
+    -   Number of TAs: 1 TA / 30 learners
+
+-   Conf organization on GitHub
+
+```{=html}
+<!-- -->
+```
+-   Reimbursements happen after the workshop, Anne will do reimbursements / or Finance
