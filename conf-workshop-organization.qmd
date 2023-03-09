@@ -20,7 +20,4 @@ editor: visual
 
 -   Conf organization on GitHub
 
-```{=html}
-<!-- -->
-```
 -   Reimbursements happen after the workshop, Anne will do reimbursements / or Finance
